@@ -9,14 +9,6 @@ public class AirConditioner {
     private String acName;
 
 
-    public boolean isOn() {
-        return isOn;
-    }
-
-    public boolean turnOff() {
-        return  isOff;
-    }
-
     public int increaseTemp() {
         if (temperature >= 16 && temperature <= 30) {
             this.temperature = temperature + 1;
@@ -28,7 +20,7 @@ public class AirConditioner {
         return increaseTemp();
     }
 
-    public int getTemperaturep() {
+    public int getTemperature() {
         return temperature;
     }
 
@@ -43,12 +35,28 @@ public class AirConditioner {
         }
     }
 
-    public void turnOn() {
-        isOn = true;
+    public boolean turnOn() {
+        int power = 1;
+        if(power == 1){
+            isOn = true;
+            System.out.println("Ac is on");
+        }
+        if (power == 0){
+            isOn = false;
+        }
+        return isOn;
     }
 
-    public void isOff() {
-        isOff = true;
+    public boolean turnOff() {
+        int power = 0;
+        if (power == 0){
+            isOff = true;
+            System.out.println("Ac if off");
+        }
+        if (power == 1) {
+            isOff = false;
+        }
+        return isOff;
     }
 
     public void setName(String acName) {

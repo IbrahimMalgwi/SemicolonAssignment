@@ -1,34 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2ce2d577-1fa2-4713-b586-12b4cb368a45" name="Changes" comment="Assignment">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SemicolonAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/Acceleration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/AirConditioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/LgAc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/MyersBriggsQuestionnaire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/NokiaMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/PersonalityTestArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/SevenSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/SevenSegmentDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/ShopReceipt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/TwelveDaysOfChristmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/UnicornPetrolStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/semicolonAssignments/Work.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/semicolonAssignments/AirConditioner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/semicolonAssignments/AirConditionerTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/semicolonAssignments/BikeTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/semicolonAssignments/ShopReceiptTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/semicolonAssignments/StudentTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/test/semicolonAssignments/UnicornPetrolStationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SemicolonAssignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SemicolonAssignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/semicolonAssignments/AirConditioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semicolonAssignments/AirConditioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/semicolonAssignments/TwelveDaysOfChristmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semicolonAssignments/TwelveDaysOfChristmas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +36,29 @@
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1658093935" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1658093934" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -65,19 +76,27 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Downloaded.Files.Path.Enabled": "false",
+    "Project.color": "343a18",
     "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "last_opened_file_path": "C:/Users/Ibrahim/IdeaProjects/SemicolonAssignment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "zielu.gittoolbox.prj.config.v2"
+    "settings.editor.selected.configurable": "zielu.gittoolbox.prj.config.v2",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -91,9 +110,9 @@
       <recent name="semicolonAssignments" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AirConditionerTest.testTemperatureCantGoBlow16">
-    <configuration name="Acceleration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semicolonAssignments.Acceleration" />
+  <component name="RunManager" selected="Application.NokiaMenu">
+    <configuration name="NokiaMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semicolonAssignments.NokiaMenu" />
       <module name="SemicolonAssignment" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyersBriggsQuestionnaire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semicolonAssignments.MyersBriggsQuestionnaire" />
+    <configuration name="ShopReceiptTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="semicolonAssignments.ShopReceiptTest" />
       <module name="SemicolonAssignment" />
       <extension name="coverage">
         <pattern>
@@ -118,33 +137,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SevenSegment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semicolonAssignments.SevenSegment" />
-      <module name="SemicolonAssignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="semicolonAssignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwelveDaysOfChristmas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="semicolonAssignments.TwelveDaysOfChristmas" />
-      <module name="SemicolonAssignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="semicolonAssignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AirConditionerTest.testTemperatureCantGoBlow16" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AirConditionerTest.testAirConditionCanBeOff" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SemicolonAssignment" />
       <extension name="coverage">
         <pattern>
@@ -154,7 +147,43 @@
       </extension>
       <option name="PACKAGE_NAME" value="semicolonAssignments" />
       <option name="MAIN_CLASS_NAME" value="semicolonAssignments.AirConditionerTest" />
-      <option name="METHOD_NAME" value="testTemperatureCantGoBlow16" />
+      <option name="METHOD_NAME" value="testAirConditionCanBeOff" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirConditionerTest.testAirConditionCanBeOn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SemicolonAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semicolonAssignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="semicolonAssignments" />
+      <option name="MAIN_CLASS_NAME" value="semicolonAssignments.AirConditionerTest" />
+      <option name="METHOD_NAME" value="testAirConditionCanBeOn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirConditionerTest.testAirConditionTemperatureCanDecrease" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SemicolonAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="semicolonAssignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="semicolonAssignments" />
+      <option name="MAIN_CLASS_NAME" value="semicolonAssignments.AirConditionerTest" />
+      <option name="METHOD_NAME" value="testAirConditionTemperatureCanDecrease" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -164,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AirConditionerTest.testTemperatureCantGoBlow16" />
-        <item itemvalue="Application.Acceleration" />
-        <item itemvalue="Application.SevenSegment" />
-        <item itemvalue="Application.TwelveDaysOfChristmas" />
-        <item itemvalue="Application.MyersBriggsQuestionnaire" />
+        <item itemvalue="Application.NokiaMenu" />
+        <item itemvalue="TestNG.AirConditionerTest.testAirConditionCanBeOn" />
+        <item itemvalue="Application.ShopReceiptTest" />
+        <item itemvalue="TestNG.AirConditionerTest.testAirConditionCanBeOff" />
+        <item itemvalue="TestNG.AirConditionerTest.testAirConditionTemperatureCanDecrease" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +211,13 @@
       <updated>1658082557994</updated>
       <workItem from="1658082559925" duration="720000" />
       <workItem from="1658084580600" duration="406000" />
-      <workItem from="1658087631825" duration="1114000" />
+      <workItem from="1658087631825" duration="1768000" />
+      <workItem from="1658098321027" duration="1858000" />
+      <workItem from="1658819485516" duration="30000" />
+      <workItem from="1663544320128" duration="624000" />
+      <workItem from="1663566470254" duration="755000" />
+      <workItem from="1679856531136" duration="68000" />
+      <workItem from="1680944659592" duration="403000" />
     </task>
     <servers />
   </component>

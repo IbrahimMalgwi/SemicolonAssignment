@@ -1,7 +1,7 @@
 package semicolonAssignments;
 
 public class SevenSegmentDisplay {
-    static void row1(int display) {
+    public static void row1(int display) {
 
         switch (display) {
             case 1:
@@ -38,7 +38,7 @@ public class SevenSegmentDisplay {
         }
     }
 
-    static void row2(int display) {
+    public static void row2(int display) {
         switch (display) {
             case 1:
                 System.out.println("|");
@@ -73,7 +73,7 @@ public class SevenSegmentDisplay {
         }
     }
 
-    static void row3(int display) {
+    public static void row3(int display) {
         switch (display) {
             case 1:
                 System.out.println("|");
@@ -108,7 +108,7 @@ public class SevenSegmentDisplay {
         }
     }
 
-    static void row4(int display) {
+    public static void row4(int display) {
         switch (display) {
             case 1:
                 System.out.println("|");
@@ -143,7 +143,7 @@ public class SevenSegmentDisplay {
         }
     }
 
-    static void row5(int display) {
+    public static void row5(int display) {
         switch (display) {
             case 1:
                 System.out.println("|");
@@ -179,7 +179,7 @@ public class SevenSegmentDisplay {
     }
 
     public static void main(String[] args) {
-        int display  = 9;
+        int display  = 2;
         row1(display);
         row2(display);
         row3(display);

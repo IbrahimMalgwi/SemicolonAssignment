@@ -18,13 +18,6 @@ public class SevenSegment {
         segment[0][1] = 1;
         segment[0][2] = 1;
         segment[0][3] = 1;
-
-//        for (int [] i : segment){
-//            for (int j : i){
-//                System.out.print(j);
-//            }
-//            System.out.println();
-//        }
     }
     static void fillB() throws InterruptedException{
         segment[0][3] = 1;

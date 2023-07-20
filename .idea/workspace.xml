@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ce2d577-1fa2-4713-b586-12b4cb368a45" name="Changes" comment="Refacgtored">
+    <list default="true" id="2ce2d577-1fa2-4713-b586-12b4cb368a45" name="Changes" comment="Refactored">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/semicolonAssignments/SevenSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semicolonAssignments/SevenSegment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +198,7 @@
       <workItem from="1679856531136" duration="68000" />
       <workItem from="1680944659592" duration="403000" />
       <workItem from="1689289954186" duration="89000" />
-      <workItem from="1689797658905" duration="5282000" />
+      <workItem from="1689797658905" duration="6487000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1689290032444</created>
@@ -222,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689799656921</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Refactored">
+      <created>1689811338036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689811338036</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +250,8 @@
     <MESSAGE value="Assignment" />
     <MESSAGE value="update" />
     <MESSAGE value="Refacgtored" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refacgtored" />
+    <MESSAGE value="Refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -36,6 +36,12 @@ public class SevenSegment {
         segment[2][3] = 1;
         segment[3][3] = 1;
         segment[4][3] = 1;
+        //        for (int [] i : segment){
+//            for (int j : i){
+//                System.out.print(j);
+//            }
+//            System.out.println();
+//        }
     }
 
     static void fillD() throws InterruptedException{

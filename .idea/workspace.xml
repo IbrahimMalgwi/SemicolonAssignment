@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ce2d577-1fa2-4713-b586-12b4cb368a45" name="Changes" comment="Updated Readme" />
+    <list default="true" id="2ce2d577-1fa2-4713-b586-12b4cb368a45" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/src/semicolonAssignments/SevenSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/semicolonAssignments/SevenSegment.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test/semicolonAssignments" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -198,6 +200,7 @@
       <workItem from="1689289954186" duration="89000" />
       <workItem from="1689797658905" duration="6487000" />
       <workItem from="1689873425914" duration="978000" />
+      <workItem from="1689956217458" duration="1497000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1689290032444</created>
@@ -234,7 +237,28 @@
       <option name="project" value="LOCAL" />
       <updated>1689874342864</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated Readme">
+      <created>1689956483018</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689956483018</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated Readme">
+      <created>1690012112535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690012112537</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1690012152018</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690012152019</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,11 +278,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Assignment" />
-    <MESSAGE value="update" />
     <MESSAGE value="Refacgtored" />
     <MESSAGE value="Refactored" />
     <MESSAGE value="Updated Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Readme" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
